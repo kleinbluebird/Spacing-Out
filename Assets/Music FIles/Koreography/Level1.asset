@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  mSourceClip: {fileID: 8300000, guid: 0e0fd759d031c4d8cb36cd9193d4a3cc, type: 3}
+  mAudioFilePath: 
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: Main
+    startSample: 0
+    samplesPerBeat: 22050
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1587600
+    samplesPerBeat: 32268.2346
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 2051077
+    samplesPerBeat: 31499.9685
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 3488632
+    samplesPerBeat: 32268.2346
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 5327922
+    samplesPerBeat: 31879.449
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 5806114
+    samplesPerBeat: 31499.9685
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 6183990
+    samplesPerBeat: 31129.3521
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 6682181
+    samplesPerBeat: 30767.3793
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 6850561
+    samplesPerBeat: 31499.9685
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 7119172
+    samplesPerBeat: 32268.2346
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 7215850
+    samplesPerBeat: 33075
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 7414430
+    samplesPerBeat: 44100
+    beatsPerMeasure: 3
+    bStartNewMeasure: 0
+  mTracks:
+  - {fileID: 11400000, guid: 184211b06b94d4dabbca3178e0cae672, type: 2}

@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  mSourceClip: {fileID: 8300000, guid: e1074d5c3ed19457aa45809af3ad7b57, type: 3}
+  mAudioFilePath: 
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: Main
+    startSample: 0
+    samplesPerBeat: 26460
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1799279
+    samplesPerBeat: 26460
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1811683
+    samplesPerBeat: 26854.915500000003
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1824271
+    samplesPerBeat: 27261.7821
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1837050
+    samplesPerBeat: 27681.217200000003
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1850025
+    samplesPerBeat: 28113.749999999996
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1863204
+    samplesPerBeat: 28559.9979
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1876591
+    samplesPerBeat: 29020.6224
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1890195
+    samplesPerBeat: 29496.3732
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1904021
+    samplesPerBeat: 29988.000000000004
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1918078
+    samplesPerBeat: 30496.2525
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1932373
+    samplesPerBeat: 31022.0568
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1946915
+    samplesPerBeat: 31566.2949
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1961711
+    samplesPerBeat: 32129.981099999997
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1976772
+    samplesPerBeat: 32714.1738
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 1992107
+    samplesPerBeat: 33319.9755
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 2007726
+    samplesPerBeat: 33948.6651
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 2023639
+    samplesPerBeat: 34601.521499999995
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  - sectionName: Section
+    startSample: 2040940
+    samplesPerBeat: 27562.5
+    beatsPerMeasure: 4
+    bStartNewMeasure: 0
+  mTracks:
+  - {fileID: 11400000, guid: 883269b50c11d4027bb20b593a914480, type: 2}
